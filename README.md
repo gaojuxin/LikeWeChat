@@ -1,2 +1,2 @@
 # LikeWeChat
-a UI Like We Chat
+仿微信利用fragment和viewpager来实现选项页滑动显示。并在fragment中添加button和listview常见控件，跳转到activity中。
